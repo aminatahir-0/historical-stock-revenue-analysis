@@ -1,7 +1,6 @@
 # 📈 Financial Data Analysis & Web Scraping: Tesla and GameStop
 
-[![Open In Colab](https://colab.research.google.com/github/aminatahir-0/historical-stock-revenue-analysis/blob/main/historical_stock_revenue_analysis.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aminatahir-0/historical-stock-revenue-analysis/blob/main/historical_stock_revenue_analysis.ipynb)
 ---
 
 ## 📋 Abstract
